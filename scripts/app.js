@@ -120,7 +120,7 @@ getCertificate = async () => {
     window.location.href = "viewCertificate.html"
 }
 
-
+//okay
 
 
 
